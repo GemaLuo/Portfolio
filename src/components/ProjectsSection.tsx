@@ -9,7 +9,7 @@ const projects = [
     name: "Mudio",
     description:
       "MUDIO is an user-friendly music website that offers users the experience of listening to music online.",
-    image: "/mudio.png",
+    image: "./mudio.png",
     github: "https://github.com/GemaLuo/Mudio.git",
     link: "https://mudio-enjoy-music.web.app/",
   },
@@ -17,7 +17,7 @@ const projects = [
     name: "Taipei-Day-Trip",
     description:
       "Taipei-day-trip is a travel e-commerce website that allows you to discover and book one-day sightseeing tours in Taipei City.",
-    image: "/desktop taipei.png",
+    image: "./desktop taipei.png",
     github: "https://github.com/GemaLuo/taipei-day-trip.git",
     link: "https://github.com/GemaLuo/taipei-day-trip#Features",
   },

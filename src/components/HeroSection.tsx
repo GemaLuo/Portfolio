@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className="md:w-1/2 md:mt-2">
           <Image
             className="rounded-full"
-            src="/../public/undraw_Programmer_re_owql.png"
+            src="./undraw_Programmer_re_owql.png"
             alt=""
             width={300}
             height={300}
