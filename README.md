@@ -9,6 +9,6 @@ This is my portfolio website built with Next.js and Tailwind CSS.
 
 ## Features
 - Themes
- - Light theme
- - Dark theme
+  - Light theme
+  - Dark theme
 - Responsive Web design
